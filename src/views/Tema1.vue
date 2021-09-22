@@ -9,7 +9,7 @@
       h1 La negociación internacional
 
     .row.justify-content-center
-      .col-10
+      .col-10(data-aos="fade-right" data-aos-delay="500")
         .cajon.color-acento-contenido.p-5.mb-5
           .row.align-items-center
             .col-9
@@ -17,18 +17,18 @@
             .col-3
               img(src="@/assets/curso/tema1-imagen1.svg")
 
-      .col-11
+      .col-11(data-aos="fade-left" data-aos-delay="500")
         figure.mb-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      .col-10
+      .col-10(data-aos="fade-right" data-aos-delay="500")
         p.mb-5 Para lograr esta integración se requiere acoplar las diferentes estructuras de los países sin que el cambio sea tan drástico, buscando que haya un periodo considerable para la transición de estos, cediendo parte de sus atribuciones de gobierno a los diferentes organismos con una coordinación estrecha que permita la unión. 
           br
           br
           | Existen diferentes formas de ceder esas atribuciones al Gobierno, como:
 
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5(data-aos="fade-left" data-aos-delay="500")
       .py-4.py-md-5(titulo="El área de preferencia arancelaria" :icono="require('@/assets/curso/tema1-tab1.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
@@ -101,17 +101,17 @@
               
     Separador
 
-    #t_1_1.titulo-segundo
+    #t_1_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 1.1  Acuerdos internacionales
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right" data-aos-delay="500")
       .col-10
         .cajon.color-acento-contenido.p-5.mb-5
           p.mb-0 Los tratados de comercio surgen a partir de la globalización y deslocalización, ya que los escenarios comerciales abrían paso a la internacionalidad, siendo importantes para llegar a conciliaciones y apoyándose entre varios países.
             br
             br
             | Los tratados internacionales de comercio están establecidos <strong>para mejorar el intercambio del comercio y las relaciones económicas</strong>, si se habla de tratados de libre comercio se determinan reglas para cada intercambio ya sea de productos o servicios, revisando los impuestos establecidos para minimizarlos o, en la mayoría de casos, eliminarlos en las importaciones o exportaciones, permitiendo un mejor acceso a los mercados, mayor competitividad nacional y disminución de las condiciones que no permitían la relación comercial entre países. Ahora, se invita a viajar unos siglos atrás a conocer los tratados… ¡vamos!
-    .tarjeta.tarjeta--gris.p-5
+    .tarjeta.tarjeta--gris.p-5(data-aos="fade-left" data-aos-delay="500")
       LineaTiempoC.color-secundario(text-small)
         .row(titulo="XI").justify-content-center
           .col-10
@@ -267,14 +267,14 @@
 
     Separador
 
-    #t_1_2.titulo-segundo
+    #t_1_2.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 1.2  Negociación
 
     .row.justify-content-center
       .col-10
-        p.mb-5 La palabra negociar implica un esfuerzo de tiempo, trabajo, menos ocio y sacrificio para lograr la meta u objetivo; así mismo, la negociación requiere de un diseño y logro de metas comunes que, eventualmente, se encuentra con una serie de controversias que requieren de una alternativa para solucionar dentro de varias posibilidades por prever.
+        p.mb-5(data-aos="fade-right" data-aos-delay="500") La palabra negociar implica un esfuerzo de tiempo, trabajo, menos ocio y sacrificio para lograr la meta u objetivo; así mismo, la negociación requiere de un diseño y logro de metas comunes que, eventualmente, se encuentra con una serie de controversias que requieren de una alternativa para solucionar dentro de varias posibilidades por prever.
 
-        .row.mb-5
+        .row.mb-5(data-aos="fade-left" data-aos-delay="500")
           .col-lg-8.mb-12.mb-lg-0
             .bloque-texto-d.color-acento-botones.p-4
               .bloque-texto-d__texto.mb-2
@@ -288,9 +288,9 @@
             figure
               img(src="@/assets/curso/tema1-imagen15.svg")
         
-        p.mb-5 Lograr los objetivos en el tema de negociación requiere de un plan o procesos establecidos que deben contemplar los márgenes de imprevistos o pérdidas que se puedan presentar luego de la negociación, así como los aspectos de frustración y falta de manejo del tema en específico; para ello se debe revisar el proceso a continuación: 
+        p.mb-5(data-aos="fade-right" data-aos-delay="500") Lograr los objetivos en el tema de negociación requiere de un plan o procesos establecidos que deben contemplar los márgenes de imprevistos o pérdidas que se puedan presentar luego de la negociación, así como los aspectos de frustración y falta de manejo del tema en específico; para ello se debe revisar el proceso a continuación: 
 
-      .col-8
+      .col-8(data-aos="fade" data-aos-delay="500")
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
             figure
@@ -314,7 +314,7 @@
             .h5.mb-2 6. Negociador
             p Si se habla de un negociador no podemos pensar que todos los seres humanos lo son, pero el negociador ya tiene una preparación que exige dominar un personaje que se está interpretando como un papel específico en una obra de teatro en el área comercial y financiera; donde lograr un buen desempeño requiere de conocimientos específicos que haga creíble todos los movimientos, actitudes, frases, expresiones o incluso aquellos momentos donde callamos.
       .col-10
-        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(data-aos="fade-right" data-aos-delay="500")
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
@@ -322,7 +322,7 @@
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/tema1-imagen17.svg')
-        .row.mb-5
+        .row.mb-5(data-aos="fade-left" data-aos-delay="500")
           .col-8
             .container-text-offset-1.px-4.py-3
               p.mb-0 Por eso se dice que la espontaneidad o simplicidad con que se asuman los tratos permite innovar o desarrollar nuevas ideas en áreas de la comunicación, cibernética, artificialidad o incluso el área transgénica como crecimiento exponencial abriendo paso a negocios verdes innovadores como a la actualidad radican entre los más importantes, pues permiten el crecimiento y desarrollo sostenible sin afectar las generaciones futuras.
@@ -332,7 +332,7 @@
           .col-4
             figure
                 img(src='@/assets/curso/tema1-imagen18.jpg')
-        p.mb-5 La diferencia cultural se debe tomar en cuenta para reconocer las diferencias que se puedan tener, ya que la religión o diferencia regional puede implicar cambios en las expresiones, jergas o niveles de susceptibilidad que afectarían una negociación por lo que requiere un trato a la confianza, emociones, impresiones, lenguaje, tiempo y espacio, a continuación se presentan qué aspectos se deben tener en cuenta: 
+        p.mb-5(data-aos="fade-right" data-aos-delay="500") La diferencia cultural se debe tomar en cuenta para reconocer las diferencias que se puedan tener, ya que la religión o diferencia regional puede implicar cambios en las expresiones, jergas o niveles de susceptibilidad que afectarían una negociación por lo que requiere un trato a la confianza, emociones, impresiones, lenguaje, tiempo y espacio, a continuación se presentan qué aspectos se deben tener en cuenta: 
     
     div.p-5.container-slider
       .tarjeta.tarjeta--gris.p-4.mb-0

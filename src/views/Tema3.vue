@@ -8,15 +8,15 @@
         span 3
       h1 Indicadores de gestión
 
-    figure.mb-5 
+    figure.mb-5(data-aos="fade-right" data-aos-delay="500")
       img(src='@/assets/curso/tema3-imagen1.jpg')
 
-    p.mb-5 El desempeño financiero de una empresa depende de lo que llaman la <strong class='resaltar'>salud financiera</strong>, pues esta apunta a su estabilidad mediante un diagnóstico y seguimiento de la misma y basada en índices que permiten determinar la liquidez de la empresa, la eficiencia en el uso de los recursos, la rentabilidad, qué tan solvente es la empresa y cuál es su capacidad de endeudamiento.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") El desempeño financiero de una empresa depende de lo que llaman la <strong class='resaltar'>salud financiera</strong>, pues esta apunta a su estabilidad mediante un diagnóstico y seguimiento de la misma y basada en índices que permiten determinar la liquidez de la empresa, la eficiencia en el uso de los recursos, la rentabilidad, qué tan solvente es la empresa y cuál es su capacidad de endeudamiento.
       br
       br
       | Existe una serie de medios para cumplir los objetivos y metas propuestas en la planeación estratégica financiera de una empresa que se definen cuando existe una claridad en la visión empresarial.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right" data-aos-delay="500")
       .col-11
         .cajon.color-primario.p-5.mb-5
           .row
@@ -26,21 +26,21 @@
               figure
                 img(src='@/assets/curso/tema3-imagen2.svg')
 
-    p.mb-5 El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea <strong class='resaltar'>diario, semanal, mensual, bimensual, trimestral, semestral o anual</strong> con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y a información facilitará la toma de decisiones para la mejora de ventas.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea <strong class='resaltar'>diario, semanal, mensual, bimensual, trimestral, semestral o anual</strong> con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y a información facilitará la toma de decisiones para la mejora de ventas.
     
     Separador
 
-    #t_3_1.titulo-segundo
+    #t_3_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 3.1  Evaluación financiera
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen3.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Por medio de los indicadores de gestión financiera se puede inferir qué tan bien se está administrando una empresa con respecto a los ingresos y ganancias. El seguimiento de este indicador permite visualizar si una entidad está logrando sus metas y objetivos a corto, mediano y largo plazo. Así, la industria, el tamaño y el tiempo en el mercado son independientes a que una empresa conozca su desempeño financiero por lo que los profesionales en el área, como los contadores, se ocupan de administrar todos los gastos, ingresos y presupuestos; ahora se profundizará en ellos:
 
-    div.p-5.container-slider
+    div.p-5.container-slider(data-aos="fade-left" data-aos-delay="500")
       .tarjeta.tarjeta--gris.p-4.mb-0
         SlyderA
           div.p-5
@@ -173,12 +173,12 @@
     
     Separador
 
-    #t_3_2.titulo-segundo
+    #t_3_2.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 3.2  Informe de gestión
 
-    p.mb-5 La alta dirección o los dueños de negocios o empresas están familiarizados con el término informe financiero ya que es un documento base que reciben dependiendo de la entidad mensual, trimestral o semestralmente, pero no conocen el nivel de detalle, algunos de estos informes pueden llevar pues esos detalles le permitirán al empresario aumentar su:
+    p.mb-5(data-aos="fade-right" data-aos-delay="500") La alta dirección o los dueños de negocios o empresas están familiarizados con el término informe financiero ya que es un documento base que reciben dependiendo de la entidad mensual, trimestral o semestralmente, pero no conocen el nivel de detalle, algunos de estos informes pueden llevar pues esos detalles le permitirán al empresario aumentar su:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-4
         figure
           img(src='@/assets/curso/tema3-imagen17.svg')
@@ -189,9 +189,9 @@
         figure
           img(src='@/assets/curso/tema3-imagen19.svg')
     
-    p.mb-5 Los informes financieros están enfocados al cumplimiento y auditoría para la declaración de renta con sus pérdidas y ganancias, los cálculos de balance, las cuentas por pagar y cobrar, los estados de flujo de caja.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") Los informes financieros están enfocados al cumplimiento y auditoría para la declaración de renta con sus pérdidas y ganancias, los cálculos de balance, las cuentas por pagar y cobrar, los estados de flujo de caja.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="500")
       .col-lg-9
         .cajon.color-acento-contenido.p-5
           .row.align-items-center
@@ -201,7 +201,7 @@
             .col-lg-9
               p.mb-0 Estos informes son obligatorios dentro de una empresa ya que la DIAN, bancos, inversionistas o reguladores se basan en estos informes para aprobar créditos y para validar que la empresa cumple con los principios contables.
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-7
         p.mb-4 Es un reflejo de las finanzas empresariales, ya que muestran la imagen de la empresa en calidad de rendimiento, pero no dan un panorama específico por su funcionamiento, rendimiento, rentabilidad y comportamiento en actividades ejecutadas; por eso, aparece la necesidad de los informes de gestión como un estudio al detalle que optimiza la situación económica de la empresa.
           br
@@ -223,14 +223,14 @@
         figure
           img(src='@/assets/curso/tema3-imagen21.png')
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen22.jpg')})`}"
       )
       .bloque-texto-g__texto.p-5
         p.mb-0 Por ejemplo: el análisis del área de marketing en un periodo de tiempo establecido, determina exactamente los gastos y riesgos que se presentaron por actividad, por otra parte, las ganancias que arrojo un vendedor en un mes son datos que, a simple vista, no se aprecian y representan un indicador fundamental para la empresa.
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-6
         p.mb-0 Sin embargo, existen empresas que asumen no tener tiempo para realizar informes de gestión detallados, pero ignoran el hecho que no recibirlos será un obstáculo más que se presentará para el crecimiento de estas, pues se deben evitar alternativas a los sistemas de información de gestión porque son costosos y no generan un retorno de inversión. 
       .col-lg-6
@@ -242,7 +242,7 @@
             .col-lg-9
               p.mb-0 Una empresa requiere datos detallados sobre sus finanzas y gestión para auditar la liquidez, desarrollo y crecimiento, tratando de asegurar las cuentas que se pueden consolidar evitando una falta de la liquidez específica.
 
-    p.mb-4 El informe de gestión va más allá de la contabilidad, pues es una supervisión técnica y administrativa de las actividades de la empresa que garantiza la implementación de procedimientos, políticas y sistemas que facilitan la generación de informes financieros precisos, ya que establece los puntos de referencia de rendimiento claros, facilita el aprendizaje y ejecución apropiada de operaciones, mejora la comunicación y colaboración,  impulsa el compromiso, la motivación y fomenta el crecimiento continuo de la empresa.
+    p.mb-4(data-aos="fade-right" data-aos-delay="500") El informe de gestión va más allá de la contabilidad, pues es una supervisión técnica y administrativa de las actividades de la empresa que garantiza la implementación de procedimientos, políticas y sistemas que facilitan la generación de informes financieros precisos, ya que establece los puntos de referencia de rendimiento claros, facilita el aprendizaje y ejecución apropiada de operaciones, mejora la comunicación y colaboración,  impulsa el compromiso, la motivación y fomenta el crecimiento continuo de la empresa.
 
     Separador
 

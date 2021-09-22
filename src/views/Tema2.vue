@@ -8,25 +8,25 @@
         span 2
       h1 Costos y presupuestos
 
-    p.mb-5 En el siguiente video podrás conocer los conceptos de costos y presupuestos:
+    p.mb-5(data-aos="fade-right" data-aos-delay="500") En el siguiente video podrás conocer los conceptos de costos y presupuestos:
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left" data-aos-delay="500")
       .col-11
           figure.mb-5
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    #t_2_1.titulo-segundo
+    #t_2_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.1  Costos y gastos por actividades
 
-    p.mb-5 Los costos en la producción o comercialización de un producto o servicio son trascendentales en la estructura de una negociación, por lo que se derivan otros procesos que constan de actividades que minimizan los consumos de materias primas o el requerimiento de mano de obra.
+    p.mb-5(data-aos="fade-right" data-aos-delay="500") Los costos en la producción o comercialización de un producto o servicio son trascendentales en la estructura de una negociación, por lo que se derivan otros procesos que constan de actividades que minimizan los consumos de materias primas o el requerimiento de mano de obra.
       br
       br
       | Los costos se pueden identificar fácilmente según su naturaleza, la variación en producción, su relación con el producto, el proceso organizacional o su uso en planeación, tal como se muestra aquí y profundizando cada uno de ellos:
 
     //- TabsA debe ir acompañado de una de una de estas clases => 
     //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-    TabsA.color-acento-contenido.mb-5
+    TabsA.color-acento-contenido.mb-5(data-aos="fade-left" data-aos-delay="500")
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
@@ -59,13 +59,13 @@
     
     Separador
 
-    #t_2_2.titulo-segundo
+    #t_2_2.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.2  Estrategias de costos
     
-    p.mb-5 Las estrategias de costos consisten en revisar las actividades que hacen parte de la cadena de suministro y valor de la empresa desde un ámbito global, permite encaminar a la empresa en una apropiada proyección económica y destaca ventajas competitivas sostenibles pues es un proceso de mejora continua. 
+    p.mb-5(data-aos="fade-right" data-aos-delay="500") Las estrategias de costos consisten en revisar las actividades que hacen parte de la cadena de suministro y valor de la empresa desde un ámbito global, permite encaminar a la empresa en una apropiada proyección económica y destaca ventajas competitivas sostenibles pues es un proceso de mejora continua. 
 
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="fade-left" data-aos-delay="500")
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen6.jpg')})`}"
@@ -73,10 +73,10 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Estas estrategias tienen el objetivo de organizar la información para que la entidad pueda mantener un nivel competitivo comercial con productos y servicios de alta calidad que satisfacen al cliente por un buen precio; pero solo se consigue implementando un proceso de diseño y aplicación constante en la cadena productiva y de valor en todas las actividades de la empresa que garantizan por medio de un buen producto, entregas a tiempo y rentabilidad la satisfacción del cliente.
         
-      .col-lg-12.text-center
+      .col-lg-12.text-center(data-aos="fade-right" data-aos-delay="500")
         p.mb-5 De este modo, hay estrategias de costos para realizar una mejor administración empresarial:
 
-      .col-lg-11
+      .col-lg-11(data-aos="fade-left" data-aos-delay="500")
         .tarjeta--container.row.mb-5
           .col-md.tarjeta.color-primario.p-5
             h3.text-center El liderazgo en los costos
@@ -106,7 +106,7 @@
             p Con sus respectivas características o criterios para lograr definir a qué tipo de clientes se pueden ofrecer cada producto y garantizar un mercado llamativo.
       
       .col-10
-        .row.mb-5
+        .row.mb-5(data-aos="fade-right" data-aos-delay="500")
           .col-lg-7
             .container-text-offset-1.px-3.py-2
               p.mb-0 Generalmente las empresas tienen una cadena de valor que demuestra la posición en el mercado, opciones de estrategia y en qué es más competitiva la entidad para trabajar en esos puntos y obtener ventaja con otros proveedores en el mercado. Se garantiza la cadena de valor cuando se hace un seguimiento al producto desde su diseño hasta el servicio que se podría ofrecer en garantía luego de la venta o asesoramiento en manejo de este.
@@ -117,7 +117,7 @@
             figure
               img(src='@/assets/curso/tema2-imagen10.jpg')
         
-        .bloque-texto-d.color-acento-botones.p-4.mb-5 
+        .bloque-texto-d.color-acento-botones.p-4.mb-5(data-aos="fade-left" data-aos-delay="500")
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             h3.text-regular
@@ -126,17 +126,17 @@
           .bloque-texto-d__autor 
             span.mb-0 (Paredes, 2021).
 
-        p.mb-5 Asimismo, se impulsa a un modelo de gestión que permite a los clientes asimilar de manera fácil una buena percepción de la empresa con alta calidad y precios bajos.
+        p.mb-5(data-aos="fade-right" data-aos-delay="500") Asimismo, se impulsa a un modelo de gestión que permite a los clientes asimilar de manera fácil una buena percepción de la empresa con alta calidad y precios bajos.
     
     Separador
 
-    #t_2_3.titulo-segundo
+    #t_2_3.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.3  Costos de comercio internacional
 
-    p.mb-5 El comercio internacional se ve afectado por variaciones en la bolsa y aumentos por fricciones que, en muchas ocasiones, nublan la visión de empresas competitivas en el mercado, el aumento no permite que las entidades tengan acceso a la tecnología e innovación y le reducen el valor a la empresa o incluso algunas van a la quiebra. Existen políticas que inciden en los costos del comercio y se pueden implementar medidas para mitigar su impacto por medio de reformas que afectan positivamente a países con ingresos bajos. A continuación, se presenta el siguiente proceso: 
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") El comercio internacional se ve afectado por variaciones en la bolsa y aumentos por fricciones que, en muchas ocasiones, nublan la visión de empresas competitivas en el mercado, el aumento no permite que las entidades tengan acceso a la tecnología e innovación y le reducen el valor a la empresa o incluso algunas van a la quiebra. Existen políticas que inciden en los costos del comercio y se pueden implementar medidas para mitigar su impacto por medio de reformas que afectan positivamente a países con ingresos bajos. A continuación, se presenta el siguiente proceso: 
 
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="fade-right" data-aos-delay="500")
         ImagenInfografica.color-secundario.mb-5
 
           template(v-slot:imagen)
@@ -157,20 +157,20 @@
           br
           | Los economistas hacen distinciones de los costos comerciales fijos y variables:
     
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left" data-aos-delay="500")
         figure.mb-5
           img(src='@/assets/curso/tema2-imagen12.svg', alt='Texto que describa la imagen')
 
-      .col-lg-10
+      .col-lg-10(data-aos="fade-right" data-aos-delay="500")
         p.mb-5 Con el pasar del tiempo el comercio de servicios se ha expandido de forma tal que representa la quinta parte de las corrientes comerciales mundiales, ya que los países en desarrollo la aumentan potencialmente. Los servicios inciden en <strong>qué tan competitivo es un país</strong>, pues el servicio de las telecomunicaciones, transporte y energía tienen influencia en la productividad y competitividad; de este modo, si se inicia la importación de servicios y se invierte en el extranjero aumentaría la asequibilidad, calidad y disponibilidad de servicios reduciendo de este modo la pobreza gracias a la diversificación en las exportaciones.
     
     Separador
 
-    #t_2_4.titulo-segundo
+    #t_2_4.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.4  Presupuestos
 
     .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
-      .row.m-0.align-items-center.justify-content-between
+      .row.m-0.align-items-center.justify-content-between(data-aos="fade-right" data-aos-delay="500")
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p Se pueden entender como presupuestos los análisis sistemáticos que, a partir de datos históricos, estudia los costos y gastos requeridos para el presente y futuro en <strong>la implementación de un proyecto, proceso productivo, proceso de contratación o financiero de una empresa</strong>, allí se tiene en cuenta la entrada y salida de los recursos como el dinero, tiempo, insumos, equipos e incluso espacios. 
@@ -184,7 +184,7 @@
           figure
             img(src='@/assets/curso/tema2-imagen13.svg')
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left" data-aos-delay="500")
       .col-11
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -192,7 +192,7 @@
           .tarjeta.tarjeta--verde
             .p-4
               p.mb-0 La importancia del presupuesto radica en que evita el malgasto de los recursos, establece metas y objetivos coherentes, permite anticipar y estar preparados para imprevistos, permite idealizar logros y analizar estrategias del <i>marketing competitivo</i>.
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right" data-aos-delay="500")
       .col-lg-6
         .cajon.color-acento-contenido.p-4.mb-5
           p.mb-5 En la realización de un presupuesto, los recursos y los datos que se deben tener en cuenta son:
@@ -229,18 +229,18 @@
 
     Separador
 
-    #t_2_5.titulo-segundo
+    #t_2_5.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.5  Punto de equilibrio operativo
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade-right" data-aos-delay="500")
       img(src='@/assets/curso/tema2-imagen16.jpg')
 
-    p.mb-5 Este punto en una empresa permite medir el grado de endeudamiento para financiar las actividades operativas de la misma, siendo el nivel de producción o nivel mínimo de ventas que es necesario para que la empresa sea capaz de cubrir los costos fijos. En general, el punto de equilibrio indica que la empresa no necesariamente ganará dinero, pues luego de cubrir esos costos fijos tendrá que revisar los demás gastos y cubrirlos.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") Este punto en una empresa permite medir el grado de endeudamiento para financiar las actividades operativas de la misma, siendo el nivel de producción o nivel mínimo de ventas que es necesario para que la empresa sea capaz de cubrir los costos fijos. En general, el punto de equilibrio indica que la empresa no necesariamente ganará dinero, pues luego de cubrir esos costos fijos tendrá que revisar los demás gastos y cubrirlos.
 
-    .cajon.color-primario.p-5.mb-5
+    .cajon.color-primario.p-5.mb-5(data-aos="fade-right" data-aos-delay="500")
       p.mb-0 Haciendo el cálculo matemático se dividiría el resultado total de los costos fijos entre el precio de la venta del producto menos los costos variables requeridos para producirlo.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-7
         p.mb-0 Es decir, es el nivel de ventas que se requiere para cubrir los costos operativos cuando la utilidad operativa es igual a cero, siendo una herramienta fundamental para la empresa puesto que determina el nivel de operación que cubre los costos operativos y evalúa la rentabilidad con diversos niveles de ventas.
           br
@@ -253,29 +253,29 @@
         figure
           img(src='@/assets/curso/tema2-imagen17.svg')
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="500")
       .col-lg-10
         figure
           img(src='@/assets/curso/tema2-imagen18.svg')
     
-    p.mb-5 De este modo, cuando el ingreso total cubre el gasto o costo total se logra el punto de equilibrio, pero pueden presentarse una serie de variaciones:
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") De este modo, cuando el ingreso total cubre el gasto o costo total se logra el punto de equilibrio, pero pueden presentarse una serie de variaciones:
     
     .row.justify-content-center.align-items-center
-      .col-11
+      .col-11(data-aos="fade-right" data-aos-delay="500")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2-imagen19.svg' alt='AvatarTop')
           .tarjeta.tarjeta--verde
             .p-4
               p.mb-0 1. Variaciones en el punto de equilibrio por disminución o aumento de costo fijo.
-      .col-11
+      .col-11(data-aos="fade-left" data-aos-delay="500")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2-imagen20.svg' alt='AvatarTop')
           .tarjeta.tarjeta--verde
             .p-4
               p.mb-0 2. Variaciones en el punto de equilibrio por disminución o aumento del costo variable.
-      .col-11
+      .col-11(data-aos="fade-right" data-aos-delay="500")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2-imagen21.svg' alt='AvatarTop')
@@ -283,7 +283,7 @@
             .p-4
               p.mb-0 3. Variaciones en el punto de equilibrio por la disminución o aumento del precio unitario.
     
-      .col-11
+      .col-11(data-aos="fade-left" data-aos-delay="500")
         .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
