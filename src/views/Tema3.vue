@@ -11,29 +11,29 @@
     figure.mb-5 
       img(src='@/assets/curso/tema3-imagen1.jpg')
 
-    p.mb-5 El desempeño financiero de una empresa depende de lo que llaman la salud financiera, pues esta apunta a su estabilidad mediante un diagnóstico y seguimiento de la misma y basada en índices que permiten determinar la liquidez de la empresa, la eficiencia en el uso de los recursos, la rentabilidad, qué tan solvente es la empresa y cuál es su capacidad de endeudamiento.
+    p.mb-5 El desempeño financiero de una empresa depende de lo que llaman la <strong class='resaltar'>salud financiera</strong>, pues esta apunta a su estabilidad mediante un diagnóstico y seguimiento de la misma y basada en índices que permiten determinar la liquidez de la empresa, la eficiencia en el uso de los recursos, la rentabilidad, qué tan solvente es la empresa y cuál es su capacidad de endeudamiento.
       br
       br
       | Existe una serie de medios para cumplir los objetivos y metas propuestas en la planeación estratégica financiera de una empresa que se definen cuando existe una claridad en la visión empresarial.
 
     .row.justify-content-center
       .col-11
-        .cajon.color-acento-contenido.p-5.mb-5
+        .cajon.color-primario.p-5.mb-5
           .row
             .col-lg-9
-              p.mb-0 Los indicadores de gestión en múltiples niveles sirven para determinar el éxito en la planeación estratégica, así, los indicadores clave de alto nivel se enfocan en el desempeño de la entidad mientras que los indicadores de gestión de bajo nivel solo se enfocan en procesos o empleados de cada área como gestión humana, servicio al cliente o área contable. Es útil, entonces, implementar una enumeración para los indicadores de gestión ya que son una base para seleccionar lo que se adapte mejor a las suposiciones estratégicas.
+              p.mb-0 Los indicadores de gestión en múltiples niveles sirven para determinar el éxito en la planeación estratégica, así, <strong class='resaltar'>los indicadores clave de alto</strong> nivel se enfocan en el desempeño de la entidad mientras que <strong class='resaltar'>los indicadores de gestión de bajo nivel</strong> solo se enfocan en procesos o empleados de cada área como gestión humana, servicio al cliente o área contable. Es útil, entonces, implementar una enumeración para los indicadores de gestión ya que son una base para seleccionar lo que se adapte mejor a las suposiciones estratégicas.
             .col-lg-3
               figure
                 img(src='@/assets/curso/tema3-imagen2.svg')
 
-    p.mb-5 El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea diario, semanal, mensual, bimensual, trimestral, semestral o anual con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y a información facilitará la toma de decisiones para la mejora de ventas.
+    p.mb-5 El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea <strong class='resaltar'>diario, semanal, mensual, bimensual, trimestral, semestral o anual</strong> con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y a información facilitará la toma de decisiones para la mejora de ventas.
     
     Separador
 
     #t_3_1.titulo-segundo
       h2 3.1  Evaluación financiera
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen3.jpg')})`}"
       )
@@ -51,31 +51,29 @@
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen4.svg' alt='AvatarTop')
                   .tarjeta.color-primario
-                    .text-white.p-4
-                      h2.text-center La razón corriente
+                    .p-4
+                      h3.text-center La razón corriente
                       p Indica la capacidad de la empresa para cumplir con sus obligaciones financieras, endeudamiento o pasivos a corto plazo, dividiendo el activo corriente entre el pasivo corriente se obtiene los activos corrientes para respaldar los pasivos a corto plazo.
-
               .col-md-3.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen5.svg' alt='AvatarTop')
-                  .tarjeta.color-acento-botones
+                  .tarjeta.color-primario
                     .p-4
-                      h2.text-center La dependencia del pasivo
+                      h3.text-center La dependencia del pasivo
                       p Evidencia cómo depende una empresa de la venta de inventarios para la cancelación del pasivo a corto plazo.
               .col-md-3.mb-5.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen6.svg' alt='AvatarTop')
                   .tarjeta.color-primario
-                    .text-white.p-4
-                      h2.text-center La prueba ácida
+                    .p-4
+                      h3.text-center La prueba ácida
                       p Demuestra la capacidad de una empresa para cancelar las obligaciones corrientes pero sin contar con la venta de sus existencias, con los saldos de efectivo, lo producido de sus cuentas por cobrar, inversiones temporales y otros activos de liquidación diferente a los inventarios.
-
               .col-md-3.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen7.svg' alt='AvatarTop')
-                  .tarjeta.color-acento-botones
+                  .tarjeta.color-primario
                     .p-4
-                      h2.text-center El capital neto de trabajo
+                      h3.text-center El capital neto de trabajo
                       p Es lo que le quedaría a la empresa luego de haber cancelado los pasivos a corto plazo, permite al gerente tomar decisiones para inversión.
 
           div.p-5
@@ -229,7 +227,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen22.jpg')})`}"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-5
         p.mb-0 Por ejemplo: el análisis del área de marketing en un periodo de tiempo establecido, determina exactamente los gastos y riesgos que se presentaron por actividad, por otra parte, las ganancias que arrojo un vendedor en un mes son datos que, a simple vista, no se aprecian y representan un indicador fundamental para la empresa.
 
     .row.align-items-center.mb-5

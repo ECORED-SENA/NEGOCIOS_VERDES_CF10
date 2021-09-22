@@ -66,7 +66,7 @@
 
     .row.justify-content-center
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen6.jpg')})`}"
           )
@@ -78,11 +78,8 @@
 
       .col-lg-11
         .tarjeta--container.row.mb-5
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
           .col-md.tarjeta.color-primario.p-5
-            h3 El liderazgo en los costos
+            h3.text-center El liderazgo en los costos
             .row.justify-content-center.mb-4
               .col-6
                 figure
@@ -90,11 +87,8 @@
               
             p  Se puede lograr mediante el aprovechamiento máximo de los efectos económicos favorables de la entidad y minimizando gastos.
 
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
           .col-md.tarjeta.color-acento-contenido.p-5
-            h3 Dividiendo la demanda
+            h3.text-center Dividiendo la demanda
             .row.justify-content-center.mb-4
               .col-6
                 figure
@@ -102,11 +96,8 @@
               
             p A través de diferentes canales comerciales, líneas de producción o dividiendo los tipos de clientes de acuerdo con su sector permiten distribuir mejor las tareas y líneas de atención y producción.
 
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
           .col-md.tarjeta.color-primario.p-5
-            h3 Identificando los diferentes productos y servicios
+            h3.text-center Identificando los diferentes productos y servicios
             .row.justify-content-center.mb-4
               .col-6
                 figure
@@ -171,7 +162,7 @@
           img(src='@/assets/curso/tema2-imagen12.svg', alt='Texto que describa la imagen')
 
       .col-lg-10
-        p.mb-5 Con el pasar del tiempo el comercio de servicios se ha expandido de forma tal que representa la quinta parte de las corrientes comerciales mundiales, ya que los países en desarrollo la aumentan potencialmente. Los servicios inciden en qué tan competitivo es un país, pues el servicio de las telecomunicaciones, transporte y energía tienen influencia en la productividad y competitividad; de este modo, si se inicia la importación de servicios y se invierte en el extranjero aumentaría la asequibilidad, calidad y disponibilidad de servicios reduciendo de este modo la pobreza gracias a la diversificación en las exportaciones.
+        p.mb-5 Con el pasar del tiempo el comercio de servicios se ha expandido de forma tal que representa la quinta parte de las corrientes comerciales mundiales, ya que los países en desarrollo la aumentan potencialmente. Los servicios inciden en <strong>qué tan competitivo es un país</strong>, pues el servicio de las telecomunicaciones, transporte y energía tienen influencia en la productividad y competitividad; de este modo, si se inicia la importación de servicios y se invierte en el extranjero aumentaría la asequibilidad, calidad y disponibilidad de servicios reduciendo de este modo la pobreza gracias a la diversificación en las exportaciones.
     
     Separador
 
@@ -182,13 +173,13 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p Se pueden entender como presupuestos los análisis sistemáticos que, a partir de datos históricos, estudia los costos y gastos requeridos para el presente y futuro en la implementación de un proyecto, proceso productivo, proceso de contratación o financiero de una empresa, allí se tiene en cuenta la entrada y salida de los recursos como el dinero, tiempo, insumos, equipos e incluso espacios. 
+            p Se pueden entender como presupuestos los análisis sistemáticos que, a partir de datos históricos, estudia los costos y gastos requeridos para el presente y futuro en <strong>la implementación de un proyecto, proceso productivo, proceso de contratación o financiero de una empresa</strong>, allí se tiene en cuenta la entrada y salida de los recursos como el dinero, tiempo, insumos, equipos e incluso espacios. 
               br
               br
               | El resultado de un presupuesto es un documento con indicadores financieros que determinan la cantidad de recursos a utilizar en cada punto específico, actividad o proceso empresarial, también arroja datos de rentabilidad, utilidad esperada y cuál sería el estimado para el flujo de caja. 
               br
               br
-              | El valor que se da a cada ítem del presupuesto no es al azar o asignando un aproximado del valor del año anterior, es un valor que surge de un cálculo y estudio previo de los recursos, costos y tiempos que muestran, posteriormente, qué tan rentable es cada recurso.
+              | El valor que se da a cada ítem del presupuesto no es al azar o asignando un aproximado del valor del año anterior, <strong>es un valor que surge de un cálculo y estudio previo de los recursos, costos y tiempos</strong> que muestran, posteriormente, qué tan rentable es cada recurso.
         .col-lg-4.mb-4.mb-lg-0
           figure
             img(src='@/assets/curso/tema2-imagen13.svg')
@@ -200,7 +191,7 @@
             img(src='@/assets/curso/tema2-imagen14.svg' alt='AvatarTop')
           .tarjeta.tarjeta--verde
             .p-4
-              p.mb-0 La importancia del presupuesto radica en que evita el malgasto de los recursos, establece metas y objetivos coherentes, permite anticipar y estar preparados para imprevistos, permite idealizar logros y analizar estrategias del marketing competitivo.
+              p.mb-0 La importancia del presupuesto radica en que evita el malgasto de los recursos, establece metas y objetivos coherentes, permite anticipar y estar preparados para imprevistos, permite idealizar logros y analizar estrategias del <i>marketing competitivo</i>.
     .row.justify-content-center
       .col-lg-6
         .cajon.color-acento-contenido.p-4.mb-5
@@ -241,7 +232,7 @@
     #t_2_5.titulo-segundo
       h2 2.5  Punto de equilibrio operativo
     
-    figure
+    figure.mb-5
       img(src='@/assets/curso/tema2-imagen16.jpg')
 
     p.mb-5 Este punto en una empresa permite medir el grado de endeudamiento para financiar las actividades operativas de la misma, siendo el nivel de producción o nivel mínimo de ventas que es necesario para que la empresa sea capaz de cubrir los costos fijos. En general, el punto de equilibrio indica que la empresa no necesariamente ganará dinero, pues luego de cubrir esos costos fijos tendrá que revisar los demás gastos y cubrirlos.
@@ -254,7 +245,7 @@
         p.mb-0 Es decir, es el nivel de ventas que se requiere para cubrir los costos operativos cuando la utilidad operativa es igual a cero, siendo una herramienta fundamental para la empresa puesto que determina el nivel de operación que cubre los costos operativos y evalúa la rentabilidad con diversos niveles de ventas.
           br
           br
-          | Las operaciones de negocios tienen establecido un punto de equilibrio, resultado de la diferencia entre los costos de ventas y los costos operativos, de esa manera se separan los costos variables y los fijos, pero para lograrlo se debe tener en cuenta cuál es el precio de la venta por unidad, la cantidad de venta en unidades, los ingresos por ventas, los valores de costos fijos en un periodo determinado y los costos variables. 
+          | Las operaciones de negocios tienen establecido un <strong>punto de equilibrio</strong>, resultado de la diferencia entre los costos de ventas y los costos operativos, de esa manera se separan los costos variables y los fijos, pero para lograrlo se debe tener en cuenta cuál es el precio de la venta por unidad, la cantidad de venta en unidades, los ingresos por ventas, los valores de costos fijos en un periodo determinado y los costos variables. 
           br
           br
           | Cuando se quiere determinar el valor de las unidades de venta en el punto de equilibrio, se debe tomar el costo fijo de un periodo determinado y dividirlo entre el valor del precio de venta por unidad menos los costos variables.

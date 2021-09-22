@@ -101,6 +101,9 @@
               
     Separador
 
+    #t_1_1.titulo-segundo
+      h2 1.1  Acuerdos internacionales
+
     .row.justify-content-center
       .col-10
         .cajon.color-acento-contenido.p-5.mb-5
@@ -264,7 +267,7 @@
 
     Separador
 
-    .titulo-segundo
+    #t_1_2.titulo-segundo
       h2 1.2  Negociación
 
     .row.justify-content-center
@@ -321,10 +324,11 @@
                 img(src='@/assets/curso/tema1-imagen17.svg')
         .row.mb-5
           .col-8
-            p.mb-0.container-text-offset-1 Por eso se dice que la espontaneidad o simplicidad con que se asuman los tratos permite innovar o desarrollar nuevas ideas en áreas de la comunicación, cibernética, artificialidad o incluso el área transgénica como crecimiento exponencial abriendo paso a negocios verdes innovadores como a la actualidad radican entre los más importantes, pues permiten el crecimiento y desarrollo sostenible sin afectar las generaciones futuras.
-              br
-              br
-              | La innovación abre paso al marketing en el área de la negociación como un área específica que estudia también el origen de las negociaciones desde la industrialización, el transporte, agilidad de los medios electrónicos de la información y su interacción y movilidad, creando una influencia a nivel empresarial sobre los mercados y corporaciones nacionales e internacionales pues se detecta los diferentes gustos o preferencias incidiendo en las ofertas de productos y servicios en el mercado.
+            .container-text-offset-1.px-4.py-3
+              p.mb-0 Por eso se dice que la espontaneidad o simplicidad con que se asuman los tratos permite innovar o desarrollar nuevas ideas en áreas de la comunicación, cibernética, artificialidad o incluso el área transgénica como crecimiento exponencial abriendo paso a negocios verdes innovadores como a la actualidad radican entre los más importantes, pues permiten el crecimiento y desarrollo sostenible sin afectar las generaciones futuras.
+                br
+                br
+                | La innovación abre paso al marketing en el área de la negociación como un área específica que estudia también el origen de las negociaciones desde la industrialización, el transporte, agilidad de los medios electrónicos de la información y su interacción y movilidad, creando una influencia a nivel empresarial sobre los mercados y corporaciones nacionales e internacionales pues se detecta los diferentes gustos o preferencias incidiendo en las ofertas de productos y servicios en el mercado.
           .col-4
             figure
                 img(src='@/assets/curso/tema1-imagen18.jpg')
