@@ -289,12 +289,12 @@
     
       .col-11(data-aos="fade-left" data-aos-delay="500")
         .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5 
-          .row.m-0.align-items-center.justify-content-between
+          .row.m-0.align-items-center.justify-content-between.gx-0
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/tema2-imagen22.svg')
             .col-lg-8
-              .bloque-texto-a__texto.p-4
+              .bloque-texto-a__texto.p-5
                 p Por eso, se considera importante si una empresa quiere mantener una buena administración financiera en su fabricación o producción debe tener en cuenta la planeación de los presupuestos y su incidencia para lograr un punto de equilibrio que se ve reflejado en las ventas, precios, costos y gastos, dado que el endeudamiento financiero para la producción es el efecto causado sobre la rentabilidad de los capitales de la empresa.
 
 </template>
