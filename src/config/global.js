@@ -143,7 +143,7 @@ export default {
         'https://books.google.com.co/books?hl=es&lr=&id=MbmxtYVYJ2gC&oi=fnd&pg=PA19&dq=historia+del+comercio+internacional&ots=ePr5rDzjWy&sig=TE4Gcc9N0sRR_Hat2kQWEJU4slI#v=onepage&q&f=false',
     },
     {
-      referencia: 'OEA. (2021). Tratados y acuerdos.',
+      referencia: 'OEA. (2021). Tratados y acuerdos. ',
       link: 'http://www.oas.org/es/temas/tratados_acuerdos.asp',
     },
     {
@@ -247,11 +247,11 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jessica Andrea Jauregui Silva',
-        cargo: 'Experto temático',
+        cargo: 'Experta temática',
         centro:
           'Centro de la Industria, Empresa y Servicios CIES - Regional Norte de Santander',
       },
@@ -263,7 +263,7 @@ export default {
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Evaluadora Instruccional',
+        cargo: 'Evaluadora instruccional',
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
@@ -298,23 +298,29 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andres Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: '',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

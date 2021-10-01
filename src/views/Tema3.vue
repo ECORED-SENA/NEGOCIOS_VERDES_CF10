@@ -21,12 +21,13 @@
         .cajon.color-primario.p-5.mb-5
           .row
             .col-lg-9
-              p.mb-0 Los indicadores de gestión en múltiples niveles sirven para determinar el éxito en la planeación estratégica, así, <strong class='resaltar'>los indicadores clave de alto</strong> nivel se enfocan en el desempeño de la entidad mientras que <strong class='resaltar'>los indicadores de gestión de bajo nivel</strong> solo se enfocan en procesos o empleados de cada área como gestión humana, servicio al cliente o área contable. Es útil, entonces, implementar una enumeración para los indicadores de gestión ya que son una base para seleccionar lo que se adapte mejor a las suposiciones estratégicas.
+              p.mb-0 Los indicadores de gestión en múltiples niveles sirven para determinar el éxito en la planeación estratégica, así, <strong class='resaltar'>los indicadores clave de alto nivel</strong> se enfocan en el desempeño de la entidad mientras que <strong class='resaltar'>los indicadores de gestión de bajo nivel</strong> solo se enfocan en procesos o empleados de cada área como gestión humana, servicio al cliente o área contable. Es útil, entonces, implementar una enumeración para los indicadores de gestión ya que son una base para seleccionar lo que se adapte mejor a las suposiciones estratégicas.
             .col-lg-3
               figure
                 img(src='@/assets/curso/tema3-imagen2.svg')
 
-    p.mb-5(data-aos="fade-left" data-aos-delay="500") El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea <strong class='resaltar'>diario, semanal, mensual, bimensual, trimestral, semestral o anual</strong> con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y a información facilitará la toma de decisiones para la mejora de ventas.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") Se puede asumir que el sector de ventas es el único proceso que se debe controlar debido a que sus resultados en la cantidad de ventas alcanzadas se expresan en ganancias obtenidas, por lo que puede ser una guía base para conocer el desempeño financiero de una empresa; pero no es así, existen datos más relevantes para la optimización de un plan de ventas o <italic>marketing</italic>, el progreso de la ejecución de los objetivos y un indicador de gestión en ventas refleja el progreso en puntos clave para una apropiada estrategia de ventas.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea <strong class='resaltar'>diario, semanal, mensual, bimensual, trimestral, semestral o anual</strong> con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y la información facilitará la toma de decisiones para la mejora de ventas.
     
     Separador
 
@@ -53,13 +54,15 @@
                   .tarjeta.color-primario
                     .p-4
                       h3.text-center La razón corriente
+                      hr.especial
                       p Indica la capacidad de la empresa para cumplir con sus obligaciones financieras, endeudamiento o pasivos a corto plazo, dividiendo el activo corriente entre el pasivo corriente se obtiene los activos corrientes para respaldar los pasivos a corto plazo.
-              .col-md-3.mb-lg-0
+              .col-md-3.mb-5.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen5.svg' alt='AvatarTop')
                   .tarjeta.color-primario
                     .p-4
                       h3.text-center La dependencia del pasivo
+                      hr.especial
                       p Evidencia cómo depende una empresa de la venta de inventarios para la cancelación del pasivo a corto plazo.
               .col-md-3.mb-5.mb-lg-0
                 .tarjeta-avatar
@@ -67,6 +70,7 @@
                   .tarjeta.color-primario
                     .p-4
                       h3.text-center La prueba ácida
+                      hr.especial
                       p Demuestra la capacidad de una empresa para cancelar las obligaciones corrientes pero sin contar con la venta de sus existencias, con los saldos de efectivo, lo producido de sus cuentas por cobrar, inversiones temporales y otros activos de liquidación diferente a los inventarios.
               .col-md-3.mb-lg-0
                 .tarjeta-avatar
@@ -74,6 +78,7 @@
                   .tarjeta.color-primario
                     .p-4
                       h3.text-center El capital neto de trabajo
+                      hr.especial
                       p Es lo que le quedaría a la empresa luego de haber cancelado los pasivos a corto plazo, permite al gerente tomar decisiones para inversión.
 
           div.p-5
@@ -94,7 +99,7 @@
                   .col-md-7.d-flex.mb-4
                     .tarjeta.tarjeta--verde.rounded-3.p-3
                       p.mb-0 El indicador de productividad es la rotación de activos, pues determina cuántos pesos se generan por cada peso invertido en el activo total.
-                  .col-md-5.d-flex
+                  .col-md-5.d-flex.mb-4
                     .tarjeta.tarjeta--verde.rounded-3.p-3
                       p.mb-0 Cuando se mide la cantidad de veces que las cuentas de cobro giran en promedio en un periodo de tiempo determinado se llama rotación de cartera.
                   .col-md-7.d-flex
@@ -120,7 +125,7 @@
                     img(src='@/assets/curso/tema3-imagen10.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--verde
                     .p-4
-                      p.mb-0 El momento en que se refleja el rendimiento de los aportes a la cuenta de patrimonio del monto acumulado por una empresa a la fecha,  de presentación del estado contable de la misma, el cual se debe comparar con la tasa de oportunidad de cada accionista para evaluar sus futuras inversiones.
+                      p.mb-0 El momento en que se refleja el rendimiento de los aportes a la cuenta de patrimonio del monto acumulado por una empresa a la fecha  de presentación del estado contable de la misma, el cual se debe comparar con la tasa de oportunidad de cada accionista para evaluar sus futuras inversiones.
               .col-md-6.d-flex
                 .tarjeta-avatar-b.mb-5
                   .tarjeta-avatar-b__img
@@ -161,9 +166,9 @@
                 figure
                   img(src='@/assets/curso/tema3-imagen15.svg')
           div.p-5
-            h3.mb-5 Rentabilidad 
+            h3.mb-5 Contribución marginal 
             .cajon.color-primario.p-5.mb-5
-              p.mb-0 La contribución marginal dentro de la rentabilidad es considera como el exceso de los ingresos con respecto a los costos variables, el cual debe cubrir los costos fijos y la utilidad.
+              p.mb-0 La contribución marginal dentro de la rentabilidad se considera como el exceso de los ingresos con respecto a los costos variables, el cual debe cubrir los costos fijos y la utilidad.
             .row
               .col-lg-8
                 p.mb-0 Existe un margen de contribución que se determina por cada peso que se efectúe en ventas, que se deja para cubrir los costos y gastos fijos. También se determinan las ganancias o utilidad por empresa o proyecto como la capacidad para generar caja, la mínima rentabilidad que debería generar un activo, es decir lo que le cuesta a la empresa financiar sus activos.
@@ -176,7 +181,7 @@
     #t_3_2.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 3.2  Informe de gestión
 
-    p.mb-5(data-aos="fade-right" data-aos-delay="500") La alta dirección o los dueños de negocios o empresas están familiarizados con el término informe financiero ya que es un documento base que reciben dependiendo de la entidad mensual, trimestral o semestralmente, pero no conocen el nivel de detalle, algunos de estos informes pueden llevar pues esos detalles le permitirán al empresario aumentar su:
+    p.mb-5(data-aos="fade-right" data-aos-delay="500") En la alta dirección o los dueños de negocios o empresas están familiarizados con el término o la palabra <strong>informe financiero</strong>, ya que es un documento base, puede ser mensual, trimestral o semestral, algunos de estos informes pueden llevar diferentes detalles que le permitirán al empresario aumentar su:
 
     .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-4
@@ -228,7 +233,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen22.jpg')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0 Por ejemplo: el análisis del área de marketing en un periodo de tiempo establecido, determina exactamente los gastos y riesgos que se presentaron por actividad, por otra parte, las ganancias que arrojo un vendedor en un mes son datos que, a simple vista, no se aprecian y representan un indicador fundamental para la empresa.
+        p.mb-0 Por ejemplo: el análisis del área de <i>marketing</i> en un periodo de tiempo establecido, determina exactamente los gastos y riesgos que se presentaron por actividad, por otra parte, las ganancias que arrojó un vendedor en un mes son datos que, a simple vista, no se aprecian y representan un indicador fundamental para la empresa.
 
     .row.align-items-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-6
