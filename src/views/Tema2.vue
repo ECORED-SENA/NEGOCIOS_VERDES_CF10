@@ -32,27 +32,27 @@
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
-      .tarjeta.color-acento-botones--borde-force.p-4(titulo="Costos según su naturaleza")
+      .tarjeta.color-acento-botones.p-4(titulo="Costos según su naturaleza")
         h4 Costos según su naturaleza
         p Estos costos hacen referencia a los tipos de agrupaciones que difieren de la fabricación, como la materia prima o insumos, mano de obra, los gastos requeridos de distribución, administración y financieros. Un ejemplo de este costo es el sueldo de un gerente el cual puede asumirse como costo manufacturero y ser tomado por las unidades producidas en un periodo o también puede conformarse por los administrativos.
         figure(style='')
           img(src='@/assets/curso/tema2-imagen1.jpg' style='margin-left: 10%; width: 80%')
-      .tarjeta.color-acento-botones--borde-force.p-4(titulo="Costos de variación en producción")
+      .tarjeta.color-acento-botones.p-4(titulo="Costos de variación en producción")
         h4 Costos de variación en producción
         p En ocasiones los costos son directamente proporcionales a la cantidad producida o fabricada en una empresa, aquí es cuando se habla de los costos según la variabilidad en el proceso productivo. Como el ejemplo de un taller mecánico o de venta de repuestos, si el arriendo normalmente para un uso normal está por $ 600.000 el arrendador querrá saber qué tan productivo es su taller y si este es muy visitado deseará subirle el precio del arriendo por los altos ingresos que el arrendatario está generando; es un ejemplo claro de un costo variable. También puede depender de la ubicación ya que no vale lo mismo el alquiler de una oficina en un edificio empresarial lujoso a una oficina en una vereda lejana y no muy concurrida.
         figure(style='')
           img(src='@/assets/curso/tema2-imagen2.jpg' style='margin-left: 10%; width: 80%')
-      .tarjeta.color-acento-botones--borde-force.p-4(titulo="Costos según su relación con el producto")
+      .tarjeta.color-acento-botones.p-4(titulo="Costos según su relación con el producto")
         h4 Costos según su relación con el producto
         p Existe una identificación sencilla de los costos directos para la fabricación, como los requeridos para la materia prima o mano de obra, pero hay otra identificación más compleja que es compartida entre varios productos, como el costo del sueldo de un supervisor que verifica y controla la producción o fabricación de un producto, está relacionado no solo con ese proceso, sino con inventarios, con servicios que hacen engorrosa la contabilidad independiente, siendo estos costos indirectos para el proceso de fabricación, pues es imprescindible calcular estos entre los diversos productos finales.
         figure(style='')
           img(src='@/assets/curso/tema2-imagen3.jpg' style='margin-left: 10%; width: 80%')
-      .tarjeta.color-acento-botones--borde-force.p-4(titulo="Costos según el proceso organización")
+      .tarjeta.color-acento-botones.p-4(titulo="Costos según el proceso organización")
         h4 Costos según el proceso organización
         p Existen costos directos e indirectos en la división organizativa, siendo un costo directo para un departamento en específico su actividad, pero al ser indirecto se realizaría en relación con un producto que se fabrica, por ejemplo, en el área o departamento de envasado donde el salario del jefe de ese departamento sería por la producción que tenga en un periodo determinado, pero difiere cuando el costo se valida por la producción de todos los productos que salen del área de envasado, donde el sueldo del jefe se determinaría con los costos de productos producidos.
         figure(style='')
           img(src='@/assets/curso/tema2-imagen4.jpg' style='margin-left: 10%; width: 80%')
-      .tarjeta.color-acento-botones--borde-force.p-4(titulo="Costos según su uso en planeación")
+      .tarjeta.color-acento-botones.p-4(titulo="Costos según su uso en planeación")
         h4 Costos según su uso en planeación
         p Aquí es donde se empieza a hablar del presupuesto, se consolida en cifras una visión para el siguiente año en orientación a lo que frecuentemente la empresa o entidad estima costos y gastos, para ello requiere sus históricos.
         figure(style='').mb-5
@@ -73,7 +73,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen6.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Estas estrategias tienen el <strong class="resaltar">objetivo de organizar la información</strong> para que la entidad pueda mantener un nivel competitivo comercial con productos y servicios de alta calidad que satisfacen al cliente por un buen precio; pero solo se consigue implementando un proceso de diseño y aplicación constante en la cadena productiva y de valor en todas las actividades de la empresa que garantizan por medio de un buen producto, entregas a tiempo y <strong>rentabilidad</strong> la satisfacción del cliente.
+            p.mb-0 Estas estrategias tienen el <strong class="resaltar">objetivo de organizar la información</strong> para que la entidad pueda mantener un nivel competitivo comercial con productos y servicios de alta calidad que satisfacen al cliente por un buen precio; pero solo se consigue implementando un proceso de diseño y aplicación constante en la cadena productiva y de valor en todas las actividades de la empresa que garantizan por medio de un buen producto, entregas a tiempo y rentabilidad, la satisfacción del cliente.
         
       .col-lg-12.text-center(data-aos="fade-right" data-aos-delay="500")
         p.mb-5 De este modo, hay estrategias de costos para realizar una mejor administración empresarial:

@@ -261,7 +261,7 @@
                 p.mb-0 El tratado de Bruselas conocido como el tratado de fusión de los ejecutivos para la resolución de conflictos y asegurar la aplicación del derecho comunitario equitativamente para todos los estados miembros.
               li 
                 i.fab.fa-envira
-                p.mb-0 El tratado de Varsovia como aproximación al capitalismo y socialismo y el tratado de Lisboa en el que la Unión Europea. 
+                p.mb-0 El tratado de Varsovia como aproximación al capitalismo y socialismo; el tratado de Lisboa que modifica el Tratado de la Unión Europea. 
           .col-4
             figure.mb-0
               img(src='@/assets/curso/tema1-imagen14.jpg')
@@ -329,7 +329,7 @@
               p.mb-0 Por eso se dice que la espontaneidad o simplicidad con que se asuman los tratos permite innovar o desarrollar nuevas ideas en áreas de la <strong>comunicación, cibernética, artificialidad o incluso el área transgénica</strong> como crecimiento exponencial abriendo paso a negocios verdes innovadores como a la actualidad radican entre los más importantes, pues permiten el crecimiento y desarrollo sostenible sin afectar las generaciones futuras.
                 br
                 br
-                | La innovación abre paso al marketing en el área de la negociación como un área específica que estudia también el origen de las negociaciones desde <strong>la industrialización, el transporte, agilidad de los medios electrónicos de la información y su interacción y movilidad</strong>, creando una influencia a nivel empresarial sobre los mercados y corporaciones nacionales e internacionales pues se detectan los diferentes gustos o preferencias incidiendo en las ofertas de productos y servicios en el mercado.
+                | La innovación abre paso al <i>marketing</i> en el área de la negociación como un área específica que estudia también el origen de las negociaciones desde <strong>la industrialización, el transporte, agilidad de los medios electrónicos de la información y su interacción y movilidad</strong>, creando una influencia a nivel empresarial sobre los mercados y corporaciones nacionales e internacionales pues se detectan los diferentes gustos o preferencias incidiendo en las ofertas de productos y servicios en el mercado.
           .col-4
             figure
                 img(src='@/assets/curso/tema1-imagen18.jpg')
@@ -396,10 +396,10 @@
                   p.mb-0 Cercenar puede sentirse de una manera violenta o sangrienta.
               .col-lg-4.d-flex.mb-5.mb-lg-0
                 .cajon.color-primario.mb-0.p-4
-                  p.mb-0 Siendo indispensable un amplio dominio del vocabulario para poder entender o traducir cada palabra dentro de la conversación.
+                  p.mb-0 Mientras que la palabra dividir puede ser más agradable para el receptor.
               .col-lg-4.d-flex
                 .cajon.color-acento-contenido.mb-0.p-4
-                  p.mb-0 Mientras que la palabra dividir puede ser más agradable para el receptor.
+                  p.mb-0 Siendo indispensable un amplio dominio del vocabulario para poder entender o traducir cada palabra dentro de la conversación.
 
           div.p-5
             h3 Tiempo

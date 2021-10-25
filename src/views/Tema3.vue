@@ -26,7 +26,7 @@
               figure
                 img(src='@/assets/curso/tema3-imagen2.svg')
 
-    p.mb-5(data-aos="fade-left" data-aos-delay="500") Se puede asumir que el sector de ventas es el único proceso que se debe controlar debido a que sus resultados en la cantidad de ventas alcanzadas se expresan en ganancias obtenidas, por lo que puede ser una guía base para conocer el desempeño financiero de una empresa; pero no es así, existen datos más relevantes para la optimización de un plan de ventas o <italic>marketing</italic>, el progreso de la ejecución de los objetivos y un indicador de gestión en ventas refleja el progreso en puntos clave para una apropiada estrategia de ventas.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") Se puede asumir que el sector de ventas es el único proceso que se debe controlar debido a que sus resultados en la cantidad de ventas alcanzadas se expresan en ganancias obtenidas, por lo que puede ser una guía base para conocer el desempeño financiero de una empresa; pero no es así, existen datos más relevantes para la optimización de un plan de ventas o <i>marketing</i>, el progreso de la ejecución de los objetivos y un indicador de gestión en ventas refleja el progreso en puntos clave para una apropiada estrategia de ventas.
     p.mb-5(data-aos="fade-left" data-aos-delay="500") El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea <strong class='resaltar'>diario, semanal, mensual, bimensual, trimestral, semestral o anual</strong> con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y la información facilitará la toma de decisiones para la mejora de ventas.
     
     Separador
@@ -48,7 +48,7 @@
             h3 Liquidez
             p.mb-5 En una empresa la liquidez está determinada por la capacidad para saldar las obligaciones adquiridas a corto plazo,  a la vez que estas se vencen y no solo se refiere a las finanzas totales de la entidad, sino a su habilidad para convertir en efectivo los activos y pasivos corrientes; de este modo hacerle seguimiento a una empresa permite establecer la capacidad para mantener activo el proceso productivo comercial y, predecir el cumplimiento de las obligaciones que los costean, manteniendo las actividades operativas.
             .row.mb-5
-              .col-md-3.mb-5.mb-lg-0
+              .col-lg-3.mb-5.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen4.svg' alt='AvatarTop')
                   .tarjeta.color-primario
@@ -56,7 +56,7 @@
                       h3.text-center La razón corriente
                       hr.especial
                       p Indica la capacidad de la empresa para cumplir con sus obligaciones financieras, endeudamiento o pasivos a corto plazo, dividiendo el activo corriente entre el pasivo corriente se obtiene los activos corrientes para respaldar los pasivos a corto plazo.
-              .col-md-3.mb-5.mb-lg-0
+              .col-lg-3.mb-5.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen5.svg' alt='AvatarTop')
                   .tarjeta.color-primario
@@ -64,7 +64,7 @@
                       h3.text-center La dependencia del pasivo
                       hr.especial
                       p Evidencia cómo depende una empresa de la venta de inventarios para la cancelación del pasivo a corto plazo.
-              .col-md-3.mb-5.mb-lg-0
+              .col-lg-3.mb-5.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen6.svg' alt='AvatarTop')
                   .tarjeta.color-primario
@@ -72,7 +72,7 @@
                       h3.text-center La prueba ácida
                       hr.especial
                       p Demuestra la capacidad de una empresa para cancelar las obligaciones corrientes pero sin contar con la venta de sus existencias, con los saldos de efectivo, lo producido de sus cuentas por cobrar, inversiones temporales y otros activos de liquidación diferente a los inventarios.
-              .col-md-3.mb-lg-0
+              .col-lg-3.mb-lg-0
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema3-imagen7.svg' alt='AvatarTop')
                   .tarjeta.color-primario
@@ -85,62 +85,63 @@
             h3 Eficiencia 
             p.mb-5 Es la relación que existe entre los costos de los insumos y los productos de proceso que determina la productividad con la que se pueden administrar todos los recursos de la empresa, para que esta tenga los resultados del proceso. Los indicadores de eficiencia miden el nivel de ejecución del proceso y se concentran para medir el rendimiento de los recursos utilizados.
             .row.align-items-center
-              .col-7
-                .row.justify-content-center
-                  .col-md-5.d-flex.mb-4
-                    .tarjeta.tarjeta--verde.rounded-3.p-3
-                      p.mb-0 Se presenta por rotación de inventarios todas las veces que los costos en inventarios se transforman en efectivo o se colocan a un crédito.
-                  .col-md-7.d-flex.mb-4
-                    .tarjeta.tarjeta--verde.rounded-3.p-3
-                      p.mb-0 Los inventarios en existencia determinan la cantidad de días para realizar inventarios para la venta, así a menor cantidad de días aumenta la eficiencia en la administración de inventarios.
-                  .col-md-5.d-flex.mb-4
-                    .tarjeta.tarjeta--verde.rounded-3.p-3
-                      p.mb-0 Cuando se mide la frecuencia con la que se recauda la cartera se habla de periodos de cobro.
-                  .col-md-7.d-flex.mb-4
-                    .tarjeta.tarjeta--verde.rounded-3.p-3
-                      p.mb-0 El indicador de productividad es la rotación de activos, pues determina cuántos pesos se generan por cada peso invertido en el activo total.
-                  .col-md-5.d-flex.mb-4
-                    .tarjeta.tarjeta--verde.rounded-3.p-3
-                      p.mb-0 Cuando se mide la cantidad de veces que las cuentas de cobro giran en promedio en un periodo de tiempo determinado se llama rotación de cartera.
-                  .col-md-7.d-flex
-                    .tarjeta.tarjeta--verde.rounded-3.p-3
-                      p.mb-0 Cuando se rotan los proveedores son las veces que se paga a los proveedores durante un periodo o ejercicio, de este modo, si es elevada la rotación se está haciendo buen uso de los excedentes de efectivo.
-              .col-5
+              .col-lg-5.order-lg-last.mb-lg-0.mb-5
                 figure
                   img(src='@/assets/curso/tema3-imagen8.svg')
+              .col-lg-7
+                .row.justify-content-center
+                  .col-lg-5.d-flex.mb-4
+                    .tarjeta.tarjeta--verde.rounded-3.p-3
+                      p.mb-0 Se presenta por rotación de inventarios todas las veces que los costos en inventarios se transforman en efectivo o se colocan a un crédito.
+                  .col-lg-7.d-flex.mb-4
+                    .tarjeta.tarjeta--verde.rounded-3.p-3
+                      p.mb-0 Los inventarios en existencia determinan la cantidad de días para realizar inventarios para la venta, así a menor cantidad de días aumenta la eficiencia en la administración de inventarios.
+                  .col-lg-5.d-flex.mb-4
+                    .tarjeta.tarjeta--verde.rounded-3.p-3
+                      p.mb-0 Cuando se mide la frecuencia con la que se recauda la cartera se habla de periodos de cobro.
+                  .col-lg-7.d-flex.mb-4
+                    .tarjeta.tarjeta--verde.rounded-3.p-3
+                      p.mb-0 El indicador de productividad es la rotación de activos, pues determina cuántos pesos se generan por cada peso invertido en el activo total.
+                  .col-lg-5.d-flex.mb-4
+                    .tarjeta.tarjeta--verde.rounded-3.p-3
+                      p.mb-0 Cuando se mide la cantidad de veces que las cuentas de cobro giran en promedio en un periodo de tiempo determinado se llama rotación de cartera.
+                  .col-lg-7.d-flex
+                    .tarjeta.tarjeta--verde.rounded-3.p-3
+                      p.mb-0 Cuando se rotan los proveedores son las veces que se paga a los proveedores durante un periodo o ejercicio, de este modo, si es elevada la rotación se está haciendo buen uso de los excedentes de efectivo.
+              
           div.p-5
             h3 Eficacia 
             p.mb-5 La eficacia dentro de los indicadores de gestión evalúa el grado de cumplimiento de los objetivos y metas definidos en la operación estratégica, así el indicador de eficacia determina el logro de los resultados propuestos expresando si las cosas se hicieron de manera correcta, enfocándose en el deber ser, de tal manera que se conozcan y definan los requerimientos del cliente del proceso para validar la entrega del producto final o servicio esperado.
             .row.justify-content-center
-              .col-md-6.d-flex
+              .col-lg-6.d-flex
                 .tarjeta-avatar-b.mb-5
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema3-imagen9.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--verde
                     .p-4
                       p.mb-0 El margen por cada peso sobre dólar vendido determina lo que se genera para cubrir los gastos productivos y no productivos.
-              .col-md-6.d-flex
+              .col-lg-6.d-flex
                 .tarjeta-avatar-b.mb-5
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema3-imagen10.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--verde
                     .p-4
                       p.mb-0 El momento en que se refleja el rendimiento de los aportes a la cuenta de patrimonio del monto acumulado por una empresa a la fecha  de presentación del estado contable de la misma, el cual se debe comparar con la tasa de oportunidad de cada accionista para evaluar sus futuras inversiones.
-              .col-md-6.d-flex
+              .col-lg-6.d-flex
                 .tarjeta-avatar-b.mb-5
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema3-imagen11.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--verde
                     .p-4
                       p.mb-0 Cuando se determina la rentabilidad de los activos de una empresa se establece una relación entre los beneficios netos y los activos totales de la empresa.
-              .col-md-6.d-flex
+              .col-lg-6.d-flex
                 .tarjeta-avatar-b.mb-5
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema3-imagen12.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--verde
                     .p-4
                       p.mb-0 Como otra medida para conocer la eficacia de la administración y entrega a los asociados, está la utilidad por acción como una herramienta  para la toma de decisiones que aumentan la participación.
-              .col-md-6
+              .col-lg-6
                 .tarjeta-avatar-b.mb-5
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema3-imagen13.svg' alt='AvatarTop')
@@ -170,7 +171,7 @@
             .cajon.color-primario.p-5.mb-5
               p.mb-0 La contribución marginal dentro de la rentabilidad se considera como el exceso de los ingresos con respecto a los costos variables, el cual debe cubrir los costos fijos y la utilidad.
             .row
-              .col-lg-8
+              .col-lg-8.mb-lg-0.mb-5
                 p.mb-0 Existe un margen de contribución que se determina por cada peso que se efectúe en ventas, que se deja para cubrir los costos y gastos fijos. También se determinan las ganancias o utilidad por empresa o proyecto como la capacidad para generar caja, la mínima rentabilidad que debería generar un activo, es decir lo que le cuesta a la empresa financiar sus activos.
               .col-lg-4
                 figure
@@ -207,7 +208,7 @@
               p.mb-0 Estos informes son obligatorios dentro de una empresa ya que la DIAN, bancos, inversionistas o reguladores se basan en estos informes para aprobar créditos y para validar que la empresa cumple con los principios contables.
     
     .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="500")
-      .col-lg-7
+      .col-lg-7.mb-lg-0.mb-5
         p.mb-4 Es un reflejo de las finanzas empresariales, ya que muestran la imagen de la empresa en calidad de rendimiento, pero no dan un panorama específico por su funcionamiento, rendimiento, rentabilidad y comportamiento en actividades ejecutadas; por eso, aparece la necesidad de los informes de gestión como un estudio al detalle que optimiza la situación económica de la empresa.
           br
           br

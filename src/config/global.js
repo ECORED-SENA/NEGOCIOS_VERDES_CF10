@@ -292,6 +292,12 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: '',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo front-end',
         centro:
@@ -300,12 +306,6 @@ export default {
       {
         nombre: 'Andres Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
