@@ -20,7 +20,7 @@
       .col-11(data-aos="fade-left" data-aos-delay="500")
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/EVkKLjKaNtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       .col-10(data-aos="fade-right" data-aos-delay="500")
         p.mb-5 Para lograr esta integración se requiere acoplar las diferentes estructuras de los países sin que el cambio sea tan drástico, buscando que haya un periodo considerable para la transición de estos, cediendo parte de sus atribuciones de gobierno a los diferentes organismos con una coordinación estrecha que permita la unión.
