@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
+
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 3
@@ -28,7 +28,7 @@
 
     p.mb-5(data-aos="fade-left" data-aos-delay="500") Se puede asumir que el sector de ventas es el único proceso que se debe controlar debido a que sus resultados en la cantidad de ventas alcanzadas se expresan en ganancias obtenidas, por lo que puede ser una guía base para conocer el desempeño financiero de una empresa; pero no es así, existen datos más relevantes para la optimización de un plan de ventas o <i>marketing</i>, el progreso de la ejecución de los objetivos y un indicador de gestión en ventas refleja el progreso en puntos clave para una apropiada estrategia de ventas.
     p.mb-5(data-aos="fade-left" data-aos-delay="500") El seguimiento del crecimiento en ventas está de la mano con el rastreo del crecimiento empresarial, pues se enmarca en periodos de tiempos específicos ya sea <strong class='resaltar'>diario, semanal, mensual, bimensual, trimestral, semestral o anual</strong> con un único propósito: lograr un resultado comparable con los datos de información financiera pudiendo ser delimitada por un producto, área o vendedor, siendo más específica y la información facilitará la toma de decisiones para la mejora de ventas.
-    
+
     Separador
 
     #t_3_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
@@ -53,7 +53,7 @@
                   img(src='@/assets/curso/tema3-imagen4.svg' alt='AvatarTop')
                   .tarjeta.color-primario
                     .p-4
-                      h3.text-center La razón corriente
+                      h3.text-center La razón <br> corriente
                       hr.especial
                       p Indica la capacidad de la empresa para cumplir con sus obligaciones financieras, endeudamiento o pasivos a corto plazo, dividiendo el activo corriente entre el pasivo corriente se obtiene los activos corrientes para respaldar los pasivos a corto plazo.
               .col-lg-3.mb-5.mb-lg-0
@@ -69,7 +69,7 @@
                   img(src='@/assets/curso/tema3-imagen6.svg' alt='AvatarTop')
                   .tarjeta.color-primario
                     .p-4
-                      h3.text-center La prueba ácida
+                      h3.text-center La prueba <br> ácida
                       hr.especial
                       p Demuestra la capacidad de una empresa para cancelar las obligaciones corrientes pero sin contar con la venta de sus existencias, con los saldos de efectivo, lo producido de sus cuentas por cobrar, inversiones temporales y otros activos de liquidación diferente a los inventarios.
               .col-lg-3.mb-lg-0
@@ -82,7 +82,7 @@
                       p Es lo que le quedaría a la empresa luego de haber cancelado los pasivos a corto plazo, permite al gerente tomar decisiones para inversión.
 
           div.p-5
-            h3 Eficiencia 
+            h3 Eficiencia
             p.mb-5 Es la relación que existe entre los costos de los insumos y los productos de proceso que determina la productividad con la que se pueden administrar todos los recursos de la empresa, para que esta tenga los resultados del proceso. Los indicadores de eficiencia miden el nivel de ejecución del proceso y se concentran para medir el rendimiento de los recursos utilizados.
             .row.align-items-center
               .col-lg-5.order-lg-last.mb-lg-0.mb-5
@@ -108,9 +108,9 @@
                   .col-lg-7.d-flex
                     .tarjeta.tarjeta--verde.rounded-3.p-3
                       p.mb-0 Cuando se rotan los proveedores son las veces que se paga a los proveedores durante un periodo o ejercicio, de este modo, si es elevada la rotación se está haciendo buen uso de los excedentes de efectivo.
-              
+
           div.p-5
-            h3 Eficacia 
+            h3 Eficacia
             p.mb-5 La eficacia dentro de los indicadores de gestión evalúa el grado de cumplimiento de los objetivos y metas definidos en la operación estratégica, así el indicador de eficacia determina el logro de los resultados propuestos expresando si las cosas se hicieron de manera correcta, enfocándose en el deber ser, de tal manera que se conozcan y definan los requerimientos del cliente del proceso para validar la entrega del producto final o servicio esperado.
             .row.justify-content-center
               .col-lg-6.d-flex
@@ -149,7 +149,7 @@
                     .p-4
                       p.mb-0 La relación existente entre las utilidades después de los ingresos y egresos no productivos e impuestos, contribuyen a restar la capacidad de producir rentabilidad sobre las ventas.
           div.p-5
-            h3 Endeudamiento 
+            h3 Endeudamiento
             p.mb-5 Busca medir el grado y la forma en que participan los deudores para el financiamiento de la empresa, se trata de definir el riesgo que les podría causar a los mismos, a los dueños, para un determinado nivel de endeudamiento.
             .row.justify-content-center
               .col-10
@@ -157,7 +157,7 @@
                   img(src='@/assets/curso/tema3-imagen14.svg')
 
           div.p-5
-            h3 Rentabilidad  
+            h3 Rentabilidad
             p.mb-5 La palabra rentabilidad proviene de renta, que viene siendo la utilidad o ganancia de algo, aunque también se entiende como inversión. Es la habilidad, cualidad o capacidad para invertir y generar un beneficio cuantificable mediante indicadores financieros.
               br
               br
@@ -167,7 +167,7 @@
                 figure
                   img(src='@/assets/curso/tema3-imagen15.svg')
           div.p-5
-            h3.mb-5 Contribución marginal 
+            h3.mb-5 Contribución marginal
             .cajon.color-primario.p-5.mb-5
               p.mb-0 La contribución marginal dentro de la rentabilidad se considera como el exceso de los ingresos con respecto a los costos variables, el cual debe cubrir los costos fijos y la utilidad.
             .row
@@ -176,7 +176,7 @@
               .col-lg-4
                 figure
                   img(src='@/assets/curso/tema3-imagen16.svg')
-    
+
     Separador
 
     #t_3_2.titulo-segundo(data-aos="fade" data-aos-delay="500")
@@ -194,7 +194,7 @@
       .col-lg-4
         figure
           img(src='@/assets/curso/tema3-imagen19.svg')
-    
+
     p.mb-5(data-aos="fade-left" data-aos-delay="500") Los informes financieros están enfocados al cumplimiento y auditoría para la declaración de renta con sus pérdidas y ganancias, los cálculos de balance, las cuentas por pagar y cobrar, los estados de flujo de caja.
 
     .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="500")
@@ -206,25 +206,25 @@
                 img(src='@/assets/curso/tema3-imagen20.svg')
             .col-lg-9
               p.mb-0 Estos informes son obligatorios dentro de una empresa ya que la DIAN, bancos, inversionistas o reguladores se basan en estos informes para aprobar créditos y para validar que la empresa cumple con los principios contables.
-    
+
     .row.justify-content-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-7.mb-lg-0.mb-5
         p.mb-4 Es un reflejo de las finanzas empresariales, ya que muestran la imagen de la empresa en calidad de rendimiento, pero no dan un panorama específico por su funcionamiento, rendimiento, rentabilidad y comportamiento en actividades ejecutadas; por eso, aparece la necesidad de los informes de gestión como un estudio al detalle que optimiza la situación económica de la empresa.
           br
           br
-          | Los informes de gestión también conocidos en inglés como <i>management report</i> buscan:  
-        
+          | Los informes de gestión también conocidos en inglés como <i>management report</i> buscan:
+
         ul.lista-ul--color.mb-4
-          li 
+          li
             i.fab.fa-envira
             p.mb-0 Orientar a la alta gerencia sobre los diferentes aspectos de una empresa o negocio.
-          li 
+          li
             i.fab.fa-envira
-            p.mb-0 Dejan reposar las diferentes opciones con datos precisos recopilados de las diferentes áreas que hacen seguimiento a los indicadores de gestión, evidenciando el valor de la empresa durante un periodo determinado con los llamados estados financieros y estados administrativos. 
-          li 
+            p.mb-0 Dejan reposar las diferentes opciones con datos precisos recopilados de las diferentes áreas que hacen seguimiento a los indicadores de gestión, evidenciando el valor de la empresa durante un periodo determinado con los llamados estados financieros y estados administrativos.
+          li
             i.fab.fa-envira
-            p.mb-0 Soportan el comportamiento de las sociedades para la toma de decisiones y seguir siendo competitivos. 
-        p.mb-0 Estos informes son fundamentales para una apropiada estrategia organizacional, por ello, se debe garantizar que el informe sea tan detallado que refleje fácilmente las ganancias y pérdidas por área, la tasa de realización y la tasa de uso. 
+            p.mb-0 Soportan el comportamiento de las sociedades para la toma de decisiones y seguir siendo competitivos.
+        p.mb-0 Estos informes son fundamentales para una apropiada estrategia organizacional, por ello, se debe garantizar que el informe sea tan detallado que refleje fácilmente las ganancias y pérdidas por área, la tasa de realización y la tasa de uso.
       .col-lg-5
         figure
           img(src='@/assets/curso/tema3-imagen21.png')
@@ -238,7 +238,7 @@
 
     .row.align-items-center.mb-5(data-aos="fade-left" data-aos-delay="500")
       .col-lg-6
-        p.mb-0 Sin embargo, existen empresas que asumen no tener tiempo para realizar informes de gestión detallados, pero ignoran el hecho que no recibirlos será un obstáculo más que se presentará para el crecimiento de estas, pues se deben evitar alternativas a los sistemas de información de gestión porque son costosos y no generan un retorno de inversión. 
+        p.mb-0 Sin embargo, existen empresas que asumen no tener tiempo para realizar informes de gestión detallados, pero ignoran el hecho que no recibirlos será un obstáculo más que se presentará para el crecimiento de estas, pues se deben evitar alternativas a los sistemas de información de gestión porque son costosos y no generan un retorno de inversión.
       .col-lg-6
         .cajon.color-acento-contenido.p-5
           .row.align-items-center

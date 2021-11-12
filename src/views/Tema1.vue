@@ -13,7 +13,7 @@
         .cajon.color-acento-contenido.p-5.mb-5
           .row.align-items-center
             .col-9
-              p.mb-0 El origen del comercio internacional radicó en la finalización de las guerras mundiales a mediados de 1914, donde Estados Unidos se destacó como líder por ser un país ganador en el área del comercio internacional. Esto dio paso a la creación de instituciones internacionales que tuvieran la autoridad de regular las relaciones entre países para así proteger el desarrollo del sistema político-económico como se observa en el siguiente video: 
+              p.mb-0 El origen del comercio internacional radicó en la finalización de las guerras mundiales a mediados de 1914, donde Estados Unidos se destacó como líder por ser un país ganador en el área del comercio internacional. Esto dio paso a la creación de instituciones internacionales que tuvieran la autoridad de regular las relaciones entre países para así proteger el desarrollo del sistema político-económico como se observa en el siguiente video:
             .col-3
               img(src="@/assets/curso/tema1-imagen1.svg")
 
@@ -23,7 +23,7 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       .col-10(data-aos="fade-right" data-aos-delay="500")
-        p.mb-5 Para lograr esta integración se requiere acoplar las diferentes estructuras de los países sin que el cambio sea tan drástico, buscando que haya un periodo considerable para la transición de estos, cediendo parte de sus atribuciones de gobierno a los diferentes organismos con una coordinación estrecha que permita la unión. 
+        p.mb-5 Para lograr esta integración se requiere acoplar las diferentes estructuras de los países sin que el cambio sea tan drástico, buscando que haya un periodo considerable para la transición de estos, cediendo parte de sus atribuciones de gobierno a los diferentes organismos con una coordinación estrecha que permita la unión.
           br
           br
           | Existen diferentes formas de ceder esas atribuciones al Gobierno, como:
@@ -33,7 +33,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4.mb-5 El área de preferencia arancelaria
-            p.mb-0 Los países que lo conforman reducen de a poco los impuestos a las importaciones, mientras que se mantienen los aranceles individualmente en los países que no lo conforman. 
+            p.mb-0 Los países que lo conforman reducen de a poco los impuestos a las importaciones, mientras que se mantienen los aranceles individualmente en los países que no lo conforman.
               br
               br
               | Un ejemplo de este tipo de asociación fue: la Asociación Latinoamericana de Integración; y la Mancomunidad conformada por países excolonias de Inglaterra.
@@ -47,10 +47,10 @@
             h4.mb-5 La asociación de libre comercio
             p.mb-4 Elimina todos los impuestos de arancel entre los países que lo conforman, pero esos aranceles se mantienen con países que no son parte de esa asociación.
             ul.lista-ul--color
-              li 
+              li
                 i.fab.fa-envira
                 | Un ejemplo de países que están en este tipo de asociación son: Austria, Noruega, Dinamarca, Portugal, Suecia, Suiza, Reino Unido y luego Finlandia e Islandia.
-              li 
+              li
                 i.fab.fa-envira
                 | Otro ejemplo de este tipo de asociación es Estados Unidos y Canadá.
           .col-md-4
@@ -61,7 +61,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4.mb-5 La unión aduanera
-            p.mb-0 Integra las macropolíticas, eliminan el impuesto por importación y simplifican el arancel entre los países que lo conforman como el denominado arancel externo común, quiere decir que una vez importado, otros países que no hacen parte de la unión poseen un producto de libre circulación sin tener que volver a pagar arancel. 
+            p.mb-0 Integra las macropolíticas, eliminan el impuesto por importación y simplifican el arancel entre los países que lo conforman como el denominado arancel externo común, quiere decir que una vez importado, otros países que no hacen parte de la unión poseen un producto de libre circulación sin tener que volver a pagar arancel.
               br
               br
               | Un caso de unión aduanera es Zollverin que lo conforman los estados de Alemania; otro es la Comunidad Europea que a la fecha la integran miembros como Italia, Bélgica, Francia, Alemania, Italia, Luxemburgo y Holanda.
@@ -73,14 +73,14 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4.mb-5 La unión económica
-            p.mb-0 Importa diferentes mercados, unifica las políticas fiscales, monetarias y sociales tratando de manejar una sola moneda. 
+            p.mb-0 Importa diferentes mercados, unifica las políticas fiscales, monetarias y sociales tratando de manejar una sola moneda.
               br
               br
               | Un ejemplo de esta unión es Benelux conformado por Holanda, Bélgica y Luxemburgo.
           .col-md-4
             figure
               img(src='@/assets/curso/tema1-imagen5.svg', alt='Texto que describa la imagen')
-              
+
       .py-4.py-md-5(titulo="La unión política" :icono="require('@/assets/curso/tema1-tab5.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
@@ -89,7 +89,7 @@
           .col-md-4
             figure
               img(src='@/assets/curso/tema1-imagen6.svg', alt='Texto que describa la imagen')
-              
+
       .py-4.py-md-5(titulo="Las asociaciones intra regionales" :icono="require('@/assets/curso/tema1-tab6.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
@@ -98,7 +98,7 @@
           .col-md-4
             figure
               img(src='@/assets/curso/tema1-imagen7.svg', alt='Texto que describa la imagen')
-              
+
     Separador
 
     #t_1_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
@@ -120,41 +120,41 @@
             figure.mb-5
               img(src='@/assets/curso/tema1-imagen8.jpg' style='margin-left: 20%; width: 60%;')
             ul.lista-ul--color
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El <strong>tratado Tripartito</strong> conocido como uno de los textos mejor conservados con 88 páginas.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El <strong>tratado de Dárdanos</strong> con el que finalizó la Primera Guerra Mitridática.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El <strong>tratado de Fénice</strong> conocido también como la Paz de Fénice con el que finalizó la Primera Guerra Macedónica.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El <strong>tratado de Lutacio</strong> con el que finalizó la Primera Guerra Púnica.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El <strong>Pax Nicephori</strong> un tratado de paz que firmó Carlomagno en el que los imperios estuvieron de acuerdo sobre la posesión del territorio.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El <strong>tratado de Verdún</strong> que decretaba el modo en que debían proceder cuando fallece un monarca sin descendencia, entre otros aspectos.
-              
+
         .row(titulo="XII").px-5
           .col-12
             h1 XII
             p.mb-4 En el <strong>siglo XII</strong>:
           .col-8
             ul.lista-ul--color
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Devol como consecuencia de la Primera Cruzada.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El concordato de Worms que cambió a querella de las investiduras.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Zamora como resultado de una conferencia de paz donde Alfonso I de Portugal se salió victorioso en la batalla de Ourique contra los musulmanes.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de paz de Fresno-Lavandera.
               li
@@ -163,16 +163,16 @@
               li
                 i.fab.fa-envira
                 p.mb-0 Los tratados de Chinon con la batalla de Bouvines.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de París entre Francia y Tolosa.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Corbeil conformando fronteras estables entre Aragón y Francia.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Perth por el dominio de las islas Hébridas.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Anagni para una paz a raíz de la conquista de aragonesa, entre otros aspectos.
           .col-4
@@ -185,31 +185,31 @@
             p.mb-4 En el <strong>siglo XIV y XV</strong>:
           .col-8
             ul.lista-ul--color
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de paz de Calta Bellota que concluyó con la guerra de las Vísperas Sicilianas.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Torrellas relativo a sus fronteras de Castilla y Aragón.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Mantés.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de alianza luso-británica como el tratado más antiguo que sigue en vigencia desde 1373 entre Inglaterra y Portugal.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Troyes como consecuencia de la batalla de Agincourt.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de paz de Lodi.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 La carta de Calatayud.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Granada.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Barcelona entre Francia y España.
           .col-4
@@ -222,19 +222,19 @@
             p.mb-4 Los <strong>siglos XVI, XVII y XVIII</strong> trajeron consigo tratados:
           .col-8
             ul.lista-ul--color
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Granada como una alianza militar.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de paz de Zaragoza entre España y Portugal.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Londres como un tratado de paz entre España e Inglaterra como final de la guerra Anglo-Española.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 La cuádruple alianza entre el Imperio Romano, Países Bajos, Francia y Gran Bretaña.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Londres y el tratado de París por el que se le dio final a la guerra hispano-estadounidense.
           .col-4
@@ -243,25 +243,25 @@
 
         .row(titulo="XX y XXI")
           .col-12
-            h1 XX y XXI 
+            h1 XX y XXI
             p.mb-4 En los <strong>siglos XX y XXI</strong> se ratificaron tratados como:
           .col-8
             ul.lista-ul--color
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El de Moscú reconociendo la independencia de Turquía a cambio de no dar asilo en tierras georgianas.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Londres.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 La convención de las Naciones Unidas sobre el derecho del mar denotada como la Constitución de los Océanos.
-              li 
+              li
                 i.fab.fa-envira
                 p.mb-0 El tratado de Bruselas conocido como el tratado de fusión de los ejecutivos para la resolución de conflictos y asegurar la aplicación del derecho comunitario equitativamente para todos los estados miembros.
-              li 
+              li
                 i.fab.fa-envira
-                p.mb-0 El tratado de Varsovia como aproximación al capitalismo y socialismo; el tratado de Lisboa que modifica el Tratado de la Unión Europea. 
+                p.mb-0 El tratado de Varsovia como aproximación al capitalismo y socialismo; el tratado de Lisboa que modifica el Tratado de la Unión Europea.
           .col-4
             figure.mb-0
               img(src='@/assets/curso/tema1-imagen14.jpg')
@@ -283,13 +283,13 @@
                 h3.text-regular
                   strong La negociación es un proceso que puede dividirse en varias etapas que van más allá de distinguir entre emociones y reflexión, pues hacer parte de una negociación requiere un aporte de variables y conocimientos propios del tema que hacen parte de la conclusión a la que quieren llegar partiendo del conflicto que se presenta para así lograr una solución exitosa para todas las partes.
                 i.fas.fa-quote-right
-              .bloque-texto-d__autor 
+              .bloque-texto-d__autor
                 span.mb-0 (Sierralta, 2013).
           .col-lg-4
             figure
               img(src="@/assets/curso/tema1-imagen15.svg")
-        
-        p.mb-5(data-aos="fade-right" data-aos-delay="500") Lograr los objetivos en el tema de negociación requiere de un plan o procesos establecidos que deben contemplar los márgenes de imprevistos o pérdidas que se puedan presentar luego de la negociación, así como los aspectos de frustración y falta de manejo del tema en específico; para ello se debe revisar el proceso a continuación: 
+
+        p.mb-5(data-aos="fade-right" data-aos-delay="500") Lograr los objetivos en el tema de negociación requiere de un plan o procesos establecidos que deben contemplar los márgenes de imprevistos o pérdidas que se puedan presentar luego de la negociación, así como los aspectos de frustración y falta de manejo del tema en específico; para ello se debe revisar el proceso a continuación:
 
       .col-8(data-aos="fade" data-aos-delay="500")
         ImagenInfografica.color-secundario.mb-5
@@ -297,10 +297,10 @@
             figure
               img(src='@/assets/curso/tema1-imagen16.svg')
           .tarjeta.color-acento-botones.p-3(x="6.4%" y="60.8%")
-            .h5.mb-2 1. Objetivos 
+            .h5.mb-2 1. Objetivos
             p Inicialmente la negociación precisa de reconocer los objetivos establecidos que tiene en cuenta las diferentes visiones que conducen a la obstrucción de la negociación, siendo importante el reconocimiento.
           .tarjeta.color-acento-botones.p-3(x="43.6%" y="37.9%")
-            .h5.mb-2 2. Trabajo en equipo 
+            .h5.mb-2 2. Trabajo en equipo
             p Luego, aparece el trabajo en equipo como un factor importante para la toma de decisiones tratando de lograr una dinámica donde todos puedan participar sin excluir a ningún participante, pues se garantiza la confianza en el grupo y fortalece a su vez el cumplimiento del objetivo en la negociación.
           .tarjeta.color-acento-botones.p-3(x="80.6%" y="60.7%")
             .h5.mb-2 3. Líder
@@ -319,7 +319,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Se podría decir que la negociación también hace parte del arte como algo irrepetible, similar a una obra de teatro: por más que tengan un papel y sea la misma historia, cada vez que se repite la presentación tiene cosas diferentes que la caracterizan de acuerdo con el estado de ánimo del actor, a su memoria o una mala jugada del cuerpo que podría implicar la improvisación de los personajes… Lo mismo pasa en cada negocio: por más que sean escenarios iguales o similares siempre habrá factores diferentes por lo que no se podría responder de la misma manera, un claro ejemplo sería: el contexto de negociación cambia si es un hombre de 45 años o una dama de 28 años quien la dirige, aquí las maneras en las que se podrán interactuar son diferentes. 
+                p Se podría decir que la negociación también hace parte del arte como algo irrepetible, similar a una obra de teatro: por más que tengan un papel y sea la misma historia, cada vez que se repite la presentación tiene cosas diferentes que la caracterizan de acuerdo con el estado de ánimo del actor, a su memoria o una mala jugada del cuerpo que podría implicar la improvisación de los personajes… Lo mismo pasa en cada negocio: por más que sean escenarios iguales o similares siempre habrá factores diferentes por lo que no se podría responder de la misma manera, un claro ejemplo sería: el contexto de negociación cambia si es un hombre de 45 años o una dama de 28 años quien la dirige, aquí las maneras en las que se podrán interactuar son diferentes.
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/tema1-imagen17.svg')
@@ -333,8 +333,8 @@
           .col-4
             figure
                 img(src='@/assets/curso/tema1-imagen18.jpg')
-        p.mb-5(data-aos="fade-right" data-aos-delay="500") La diferencia cultural se debe tomar en cuenta para reconocer las diferencias que se puedan tener, ya que la religión o diferencia regional puede implicar cambios en las expresiones, jergas o niveles de susceptibilidad que afectarían una negociación por lo que requiere un trato a la confianza, emociones, impresiones, lenguaje, tiempo y espacio, a continuación se presentan qué aspectos se deben tener en cuenta: 
-    
+        p.mb-5(data-aos="fade-right" data-aos-delay="500") La diferencia cultural se debe tomar en cuenta para reconocer las diferencias que se puedan tener, ya que la religión o diferencia regional puede implicar cambios en las expresiones, jergas o niveles de susceptibilidad que afectarían una negociación por lo que requiere un trato a la confianza, emociones, impresiones, lenguaje, tiempo y espacio, a continuación se presentan qué aspectos se deben tener en cuenta:
+
     div.p-5.container-slider
       .tarjeta.tarjeta--gris.p-4.mb-0
         SlyderA
@@ -349,7 +349,7 @@
                 figure
                   img(src='@/assets/curso/tema1-imagen20.svg')
           div.p-5
-            h3 Emociones 
+            h3 Emociones
             p.mb-5 Las emociones están ligadas a la psicología, entendiéndose la emoción a una clase de afecto y con una duración más precisa que una reacción afectiva o un estado de ánimo, estas generan en muchas ocasiones situaciones difíciles de entender y,  sin un control, podría causar un problema o conflicto. El ser humano se mueve bajo el control de sus emociones, pero en el área de la negociación no se puede hacer caso a estas, puesto que ahí cometeremos errores y es necesario implementar técnicas de <strong>relajación, control mental y ejercicios de respiración</strong> para pensar dos veces antes de hablar o dar espacios para que la otra parte también pueda pensar con tranquilidad.
             .row.align-items-center
               .col-lg-6.mb-5.mb-lg-0
@@ -358,7 +358,7 @@
               .col-lg-6
                 .cajon.color-primario.p-5.mb-5
                   p.mb-0 Hay experiencias que aseguran que luego de haberse dejado llevar por los impulsos aparece el arrepentimiento, cuando ya no se puede hacer nada al respecto.
-          
+
           div.p-5
             h3 Emociones
             .row.align-items-center
@@ -370,7 +370,7 @@
               .col-lg-4
                 figure
                   img(src='@/assets/curso/tema1-imagen22.svg')
-          
+
           div.p-5
             h3 Impresiones
             p.mb-5 Generalmente la impresión de alguien inicia desde el momento que le vemos por primera vez, o en algunas ocasiones cuando hablan mucho de esa persona, esa imagen que da el aspecto físico, cómo se viste, se maquilla, sus accesorios, su forma de hablar y qué tan agradable es. Todo esto genera una impresión del otro y a su vez imagina otros escenarios, estas impresiones surgen de las circunstancias o motivaciones que le precedan.
@@ -381,7 +381,7 @@
               .col-lg-6
                 figure
                   img(src='@/assets/curso/tema1-imagen24.svg')
-          
+
           div.p-5
             h3 Lenguaje
             p.mb-5 Una vez se logra la confianza y se maneja una buena impresión de la otra parte en la negociación, no se debe descuidar el tono y las palabras con las que se conversa, ya que si no se expresa con los términos precisos o en algunos casos se omiten ciertas palabras aclaratorias, se puede dar paso a <strong>una mala interpretación</strong> ya que hay palabras que pueden ser sinónimos pero generar una percepción diferente para la negociación.
@@ -393,10 +393,10 @@
             .row
               .col-lg-4.d-flex.mb-5.mb-lg-0
                 .cajon.color-acento-contenido.mb-0.p-4
-                  p.mb-0 Cercenar puede sentirse de una manera violenta o sangrienta.
+                  p.mb-0 <strong>Cercenar</strong> puede sentirse de una manera violenta o sangrienta.
               .col-lg-4.d-flex.mb-5.mb-lg-0
                 .cajon.color-primario.mb-0.p-4
-                  p.mb-0 Mientras que la palabra dividir puede ser más agradable para el receptor.
+                  p.mb-0 Mientras que la palabra <strong>dividir</strong> puede ser más agradable para el receptor.
               .col-lg-4.d-flex
                 .cajon.color-acento-contenido.mb-0.p-4
                   p.mb-0 Siendo indispensable un amplio dominio del vocabulario para poder entender o traducir cada palabra dentro de la conversación.
@@ -428,12 +428,12 @@
               .col-lg-3
                 figure
                   img(src='@/assets/curso/tema1-imagen28.svg')
-          
+
           div.p-5
             h3 Espacio
             p.mb-5 El espacio físico entre las personas entra en función de la seguridad, protección y el tipo de mensaje que se transmite. La distancia interpersonal, las circunstancias y la cultura varía la negociación, puesto que:
             .tarjeta--container.row.mb-5
-              //- .tarjeta debe ir acompañado de una de una de estas clases => 
+              //- .tarjeta debe ir acompañado de una de una de estas clases =>
               //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
               //- estas clases tambien tienen un modificador --borde
               .col-md.tarjeta.color-primario.p-5
@@ -441,10 +441,10 @@
                   .col-6
                     figure
                       img(src='@/assets/curso/tema1-imagen29.svg')
-                  
+
                 p En Estados Unidos es normal que para hablar de una transacción se sienten a lados opuestos de la mesa evitando cualquier roce.
 
-              //- .tarjeta debe ir acompañado de una de una de estas clases => 
+              //- .tarjeta debe ir acompañado de una de una de estas clases =>
               //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
               //- estas clases tambien tienen un modificador --borde
               .col-md.tarjeta.color-acento-botones.p-5
@@ -452,10 +452,10 @@
                   .col-8
                     figure
                       img(src='@/assets/curso/tema1-imagen30.svg')
-                  
-                p En América Latina se saludan de mano, abrazo, palmada en el hombro o brazo. 
 
-              //- .tarjeta debe ir acompañado de una de una de estas clases => 
+                p En América Latina se saludan de mano, abrazo, palmada en el hombro o brazo.
+
+              //- .tarjeta debe ir acompañado de una de una de estas clases =>
               //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
               //- estas clases tambien tienen un modificador --borde
               .col-md.tarjeta.color-primario.p-5
@@ -463,9 +463,9 @@
                   .col-6
                     figure
                       img(src='@/assets/curso/tema1-imagen31.svg')
-                  
+
                 p En Italia se puede ver incluso a los hombres paseando abrazados o con el brazo en torno a los hombros del otro, resaltando así la diferencia con Estados Unidos, Alemania y Holanda siendo más fríos y distantes.
-  
+
 </template>
 
 <script>
